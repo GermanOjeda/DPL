@@ -5,17 +5,17 @@
 
 Para insertar código en nuestra base de datos con un fichero php se utiliza el siguiente código, haciendo la conexión a la base de datos con "$conn", luego escribiendo el comando SQL en "$insert" y haciendo el insert con "$return", después con "print_r" comprobamos que el insert se hizo correctamente.
 
-![](/insertar_code.png)
+![](./insertar_code.png)
 
 
 Gracias al "print_r" podemos ver que el insert se hizo correctamente ya que nos puso un 1 en la página.
 
-![](/insertar_respuesta.png)
+![](./insertar_respuesta.png)
 
 
 Aquí vemos que el insert surtió efecto en la base de datos
 
-![](/insertar_comprobacion.png)
+![](./insertar_comprobacion.png)
 
 ## Lectura
 
