@@ -55,6 +55,7 @@ Y miramos que version tenemos instalada
 Creamos este ficher en la ruta /var/www/html y escribimos lo siguiente
 
 ![](14.png)
+
 ![](15.png)
 
 Accedemos al fichero que acabamos de crear desde el buscador que tengamos, y si lo hemos hecho todo bien nos debería salir la siguiente página
