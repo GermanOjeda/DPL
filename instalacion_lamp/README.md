@@ -1,7 +1,9 @@
 # Instalación de servidor LAMP
 
 Primero actualizamos los paquetes de nuestra máquina
+
 ![](1.png)
+
 Actualizamos todos los paquetes instalados
 
 ![](2.png)
